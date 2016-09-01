@@ -1,0 +1,509 @@
+    /* md */
+ @media (min-width: 992px) and (max-width: 1199px) {
+	.logo {
+	  margin-left: 20px;
+    }
+	
+	.tx {
+	  margin-top: 29px;
+    }
+	
+    #myCarousel1 .carousel-control.right, #myCarousel1 .carousel-control.left {
+	  margin-left: 0px;
+	  margin-right: 0px;
+    }
+	
+	#readmore-btn {
+	  margin-top: 20px;
+    }
+
+    .shadow {
+	  margin-top: 24px;
+	  margin-left: 158px;
+    }
+	
+	#features .test {
+	  width: 210px;
+    }
+
+    #rofw {
+	  width: 930px;
+	  margin: 0 auto;
+    }	
+	
+	#features .col-md-3 {
+	  padding: 0px 0px 0px 10px;
+    }
+    	
+	#rowb .col-md-4 {
+	  margin-left: 25px;
+	  width: 280px;
+    }
+	
+	#myCarousel2 .carousel-control.right, #myCarousel2 .carousel-control.left {
+	  margin: 13px 140px 0px 135px;
+    }
+	
+	.tab4 {
+	  margin-left: 40px;
+    }
+	
+	#fist-ul {
+	  padding-left: 40px;
+	  margin-top: 40px;
+    }
+	
+	#copyright .twitter{
+	margin-left: 30px;
+    }
+	
+	.a {
+	  width: 350px;
+	  margin-left: 20px;
+	  text-align: left;
+    }
+	
+	.b {
+	  width: 480px;
+	  margin-left: 60px;
+    }
+	
+	.foot h4{
+	  margin: 270px 0px 0px 250px;
+    }
+ }	
+	/* sm */
+ @media (min-width: 768px) and (max-width: 991px) {
+	.logo {
+      width: 160px;
+	  margin-left: 0px;
+    }
+	
+	#myNavbar {
+	  margin-right: 0px;
+	  margin-top: 8px;
+    }
+	
+	.tx {
+	  padding-right: 70px;
+	}
+	
+	.item .col-md-7 {
+	  margin-left: -40px;
+    }
+	
+	.tx h1 {
+	  font-size: 35px;
+    }
+
+    .tx h3 {
+	  font-size: 29px;
+    }
+
+    .tx p {
+	  font-size: 17px;
+    }
+	
+    #myCarousel1 .carousel-control.right, #myCarousel1 .carousel-control.left {
+	  margin-left: 0px;
+	  margin-right: 0px;
+    }
+	
+	#readmore-btn {
+	  margin-top: 20px;
+    }
+
+    .shadow {
+	  margin-top: 24px;
+	  margin-left: 48px;
+    }
+
+    #rofw {
+	  width: auto;
+    }
+
+    #features .col-sm-6 {
+	  margin-top: 20px;
+	  max-width: 260px;
+	  padding: 0px 0px 0px 0px;
+	}
+	
+	#rowb .col-sm-6 {
+	  margin-left: 62px;
+	  width: 280px;
+    }
+	
+	#rowb .col-sm-12 {
+      margin-top: 10px;
+	  margin-left: 33%;
+	  width: 280px;
+    }
+	
+	#myCarousel2 .carousel-control.right, #myCarousel2 .carousel-control.left {
+	  margin: 13px 0px 0px 0px;
+    }
+	
+	.tab4 {
+	  margin-top: 20px;
+	  margin-left: 0px;
+    }
+	
+	#fist-ul {
+	  padding-left: 0px;
+    }
+	
+	#fist-ul .fa {
+	  padding: 0px 3px 0px 5px;
+	  margin-right: 5px;
+    }
+	
+	#ReadMore-btn {
+	  margin-left: 0px;
+	}
+
+    hr {
+	  margin: 10px 10px 10px 0px;
+	}
+	
+	#copyright .twitter{
+	margin-left: 0px;
+	margin-right: 20px;
+    }
+	
+	#version {
+	padding-right: 50px;
+	}
+	
+	.a {
+	  width: 330px;
+	  margin-left: 20px;
+	  text-align: left;
+    }
+	
+	.b {
+	  width: 320px;
+	  margin-left: 50px;
+    }
+	
+	.foot h4{
+	  margin: 290px 0px 0px 150px;
+    }
+	
+	input[type=email]{
+	  width: 200px;
+	}
+	
+	#icons {
+	  padding: 30px 0px 0px 0px;
+    }
+}
+/* xs */
+@media (min-width: 643px) and (max-width: 767px) {
+	.navbar-toggle{
+		margin-right: 40px;
+	}
+	
+	#myNavbar a {
+		margin-bottom: 5px;
+		width: 150px;
+	}
+	
+	.logo {
+		margin-left: 20px;
+	}
+	
+	#myNavbar {
+	  margin-right: 0px;
+	  margin-top: 8px;
+    }
+	
+	.tx {
+	  padding-right: 60px;
+	}
+	
+	.item .col-md-7 {
+	  margin-left: -30px;
+    }
+	
+	#readmore-btn {
+	  margin-top: 20px;
+	  font-size: 20px;
+	  width: 150px;
+	  height: 35px;
+    }
+	
+    .shadow {
+	  width: 150px;
+	  margin-top: 0px;
+	  margin-left: 47px;
+    }
+	
+	.tx h1 {
+	  font-size: 35px;
+    }
+
+    .tx h3 {
+	  font-size: 29px;
+    }
+
+    .tx p {
+	  font-size: 17px;
+    }
+	
+    #myCarousel1 .carousel-control.right, #myCarousel1 .carousel-control.left {
+	  margin-left: 0px;
+	  margin-right: 0px;
+    }
+	
+	#readmore-btn {
+	  margin-top: 20px;
+    }
+
+    #rofw {
+	  width: auto;
+    } 
+
+    #features .col-sm-6 {
+	  margin-top: 10px;
+	  max-width: 260px;
+	  padding: 0px 0px 0px 10px;
+	}
+	
+	#rowb .col-xs-12 {
+	  margin-left: 115px;
+	  max-width: auto;
+    }
+	
+	#myCarousel2 .carousel-control.right, #myCarousel2 .carousel-control.left {
+	  margin: 13px 5px 0px 5px;
+    }
+	
+	.tab4 {
+	  margin: 20px auto;
+    }
+	
+	#fist-ul {
+	  padding-left: 20px;
+    }
+	
+	#fist-ul .fa {
+	  padding: 0px 3px 0px 4px;
+	  margin-right: 5px;
+    }
+	
+	#ReadMore-btn {
+	  margin-left: 20px;
+	}
+	
+	#second-ul {
+	  padding-right: 10px;
+	}
+
+    hr {
+	  margin: 10px 10px 10px 0px;
+	}
+	
+	#copyright .twitter{
+	margin-left: 5px;
+	margin-right: 20px;
+    }
+	
+	#text h3{
+	max-width: 550px;
+	}
+	
+	#version {
+	padding-right: 50px;
+	}
+	
+	.a {
+	  width: 330px;
+	  margin-left: 20px;
+	  text-align: left;
+    }
+	
+	.b {
+	  width: 243px;
+	  margin-left: 20px;
+    }
+	
+	.foot h4{
+	  margin: 295px 0px 0px 150px;
+    }
+	
+	input[type=email]{
+	  width: 230px;
+	}
+	
+	#Submit {
+	  margin-left: 0px;
+	  width: 80px;
+    }
+	
+	#Subscribe {
+	  width: 80px;
+    }
+	
+	#icons {
+	  padding: 30px 0px 0px 0px;
+    }
+}
+/* XS Portrait */
+@media (min-width: 480px) and (max-width: 642px) {
+	/* Android, iPhone  и так далее.*/
+	.navbar-toggle{
+		margin-right: 40px;
+	}
+	
+	#myNavbar a {
+		margin-bottom: 5px;
+		width: 150px;
+	}
+	
+	.logo {
+		margin-left: 20px;
+	}
+	
+	#myNavbar {
+	  margin-right: 0px;
+	  margin-top: 8px;
+    }
+	
+	.tx {
+	  margin-top: -20px;
+	  padding-right: 37px;
+	}
+	
+	.item .col-md-7 {
+	  margin-left: -30px;
+    }
+	
+	#readmore-btn {
+	  margin-top: 16px;
+	  font-size: 20px;
+	  width: 140px;
+	  height: 35px;
+    }
+	
+    .shadow {
+	  width: 150px;
+	  margin-top: 0px;
+	  margin-left: 0px;
+    }
+	
+	.tx h1 {
+	  font-size: 29px;
+    }
+
+    .tx h3 {
+	  font-size: 29px;
+    }
+
+    .tx p {
+	  font-size: 17px;
+    }
+	
+    #myCarousel1 .carousel-control.right, #myCarousel1 .carousel-control.left {
+	  margin-top: 60px;
+	  margin-left: 0px;
+	  margin-right: 0px;
+    }
+
+    #rofw {
+	  width: auto;
+    } 
+
+    #features .col-sm-6 {
+	  margin-top: 10px;
+	  max-width: 260px;
+	  padding: 0px 0px 0px 10px;
+	}
+	
+	#rowb .col-xs-12 {
+	  margin-left: 0px;
+	  max-width: auto;
+    }
+	
+	#myCarousel2 .carousel-control.right, #myCarousel2 .carousel-control.left {
+	  margin: 13px 5px 0px 5px;
+    }
+	
+	#myCarousel2 h4 {
+    font-size: 13px;
+    margin: 0 auto;
+    max-width: 400px;
+    line-height: 1.7;
+}
+	
+	.tab4 {
+	  margin: 20px auto;
+    }
+	
+	#fist-ul {
+	  padding-left: 20px;
+    }
+	
+	#fist-ul .fa {
+	  padding: 0px 3px 0px 4px;
+	  margin-right: 5px;
+    }
+	
+	#ReadMore-btn {
+	  margin-left: 20px;
+	}
+	
+	#second-ul {
+	  padding-right: 10px;
+	}
+
+    hr {
+	  margin: 10px 10px 10px 0px;
+	}
+	
+	#copyright .twitter{
+	margin-left: 5px;
+	margin-right: 20px;
+    }
+	
+	#text h3{
+	max-width: 400px;
+	}
+	
+	#version {
+	padding-right: 50px;
+	}
+	
+	.a {
+	  width: 330px;
+	  margin-left: 20px;
+	  text-align: left;
+    }
+	
+	.b {
+	  width: 243px;
+	  margin-left: 20px;
+    }
+	
+	.foot h4{
+	  text-align: justify;
+	  margin: 570px 0px 0px 25%;
+    }
+	
+	input[type=email]{
+	  width: 230px;
+	}
+	
+	#Submit {
+	  margin-left: 0px;
+	  width: 80px;
+    }
+	
+	#Subscribe {
+	  float: left;
+	  width: 80px;
+    }
+	
+	#icons {
+	  padding: 30px 0px 0px 0px;
+    }
+}
